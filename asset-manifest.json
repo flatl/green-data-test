@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/green-data-test/static/css/main.15fe9888.chunk.css",
+    "main.js": "/green-data-test/static/js/main.b3b8bacc.chunk.js",
+    "main.js.map": "/green-data-test/static/js/main.b3b8bacc.chunk.js.map",
+    "runtime-main.js": "/green-data-test/static/js/runtime-main.51504ae5.js",
+    "runtime-main.js.map": "/green-data-test/static/js/runtime-main.51504ae5.js.map",
+    "static/js/2.82c4b00d.chunk.js": "/green-data-test/static/js/2.82c4b00d.chunk.js",
+    "static/js/2.82c4b00d.chunk.js.map": "/green-data-test/static/js/2.82c4b00d.chunk.js.map",
+    "index.html": "/green-data-test/index.html",
+    "static/css/main.15fe9888.chunk.css.map": "/green-data-test/static/css/main.15fe9888.chunk.css.map",
+    "static/js/2.82c4b00d.chunk.js.LICENSE.txt": "/green-data-test/static/js/2.82c4b00d.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/green-data-test/static/media/arrow-down.36a791b2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51504ae5.js",
+    "static/js/2.82c4b00d.chunk.js",
+    "static/css/main.15fe9888.chunk.css",
+    "static/js/main.b3b8bacc.chunk.js"
+  ]
+}
